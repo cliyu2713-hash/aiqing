@@ -31,7 +31,7 @@ export function ChatHeader() {
       {/* Created group tip */}
       <div className="flex items-center justify-center gap-1 bg-neutral-100 pt-3 text-center text-xs text-neutral-500">
         <Zap className="h-3.5 w-3.5 fill-amber-400 text-amber-400" />
-        <span>螃蟹交付专员-凯凯创建了群组</span>
+        <span>螃蟹交付专员-绝缘创建了群组</span>
       </div>
 
       {/* System tip */}

@@ -19,7 +19,7 @@ function MessageRow({ children }: { children: ReactNode }) {
       </div>
       <div className="flex min-w-0 flex-1 flex-col">
         <div className="mb-1 flex items-center gap-1.5">
-          <span className="text-xs text-neutral-500">螃蟹交付专员-凯凯</span>
+          <span className="text-xs text-neutral-500">螃蟹交付专员-绝缘</span>
           <span className="rounded bg-amber-400 px-1 py-px text-[10px] font-medium text-white">官方</span>
           <span className="ml-1 text-[11px] text-neutral-400">05/07 13:32</span>
         </div>
